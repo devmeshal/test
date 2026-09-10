@@ -1,1 +1,3 @@
-Hey this is our file which we are going to upload on GitHub.
+Hey this is our file which we are going to upload on GitHub.i already clone it .
+
+
