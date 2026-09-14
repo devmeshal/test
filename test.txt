@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Hey this is our file which we are going to upload on GitHub. hello im shahzaib
+=======
 Hey this is our file which we are going to upload on GitHub.i already clone it .
 
 
+>>>>>>> 9f64e9abca5027aa3ffaf2fef0a4f4f703c8c1f3
