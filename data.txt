@@ -1,0 +1,5 @@
+Name: Ali
+Age: 20
+City: Lahore
+Course: Artificial Intelligence
+Score: 85
