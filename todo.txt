@@ -1,0 +1,9 @@
+My Todo List
+
+1. Learn Python basics
+2. Practice Git and GitHub
+3. Learn NumPy
+4. Learn Pandas
+5. Learn Machine Learning
+6. Build an AI project
+7. Upload project to GitHub
