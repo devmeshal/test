@@ -1,0 +1,8 @@
+Python Notes
+
+1. Variables store data.
+2. print() is used to display output.
+3. input() is used to take input from the user.
+4. if-else is used for decision making.
+5. Loops are used to repeat instructions.
+6. Functions are used to organize reusable code.
