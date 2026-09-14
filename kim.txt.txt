@@ -1,2 +1,1 @@
-Hi 
-are you good 
+Hi this is my first repo 
