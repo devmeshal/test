@@ -1,0 +1,4 @@
+Once upon a time, there was a beginner programmer who wanted to become an AI Engineer. 
+He started learning Python every day and practiced writing small programs. 
+At first, programming seemed difficult, but with regular practice he slowly became better.
+He learned Git, GitHub, NumPy, Pandas, Machine Learning and Deep Learning.
