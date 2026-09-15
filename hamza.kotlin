@@ -1,0 +1,11 @@
+fun main() {
+    print("Pehla number likho: ")
+    val num1 = readLine()!!.toInt()
+    
+    print("Dosra number likho: ")
+    val num2 = readLine()!!.toInt()
+    
+    val sum = num1 + num2
+    
+    println("Dono ka sum hai: $sum")
+}
